@@ -9,8 +9,9 @@
 
 <div align=center>
 
-|CI.yml        |main   |GitHub Actions workflow produces release files.|
+|Files|version|Description|
 |:------------:|:-----:|:----------------------------------------------------:|
+|CI.yml        |main   |GitHub Actions workflow produces release files.|
 |zpaqd.cpp     |7.15   |User's guide and source code.|
 |libzpaq.h     |7.12   |API header and docs.|
 |libzpaq.cpp   |7.15   |API source code.|
