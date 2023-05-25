@@ -18,15 +18,13 @@
 
 </div>
 
-All versions of this software can be found at
-[here](http://mattmahoney.net/dc/zpaq.html#zpaq "ZPAQ Lossless Compressing Tool").
-Please report bugs to Matt Mahoney at mattmahoneyfl@gmail.com
+All versions of this software can be found [here](http://mattmahoney.net/dc/zpaq.html#zpaq "ZPAQ Lossless Compressing Tool").
+Please report bugs to Matt Mahoney, the developer, [here](mattmahoneyfl@gmail.com#zpaq-contact "Matt Mahoney, the developer").
 This software is written by Matt Mahoney and released to the public domain.
 
 zpaqd is a tool for developing, testing, 
 and debugging new compression algorithms 
-in the ZPAQ streaming archive format described 
-in [here](http://mattmahoney.net/dc/zpaq206.pdf#zpaq-pdf "ZPAQ Description (PDF)").
+in the ZPAQ streaming archive format described [here](http://mattmahoney.net/dc/zpaq206.pdf#zpaq-pdf "ZPAQ Description (PDF)").
 
 It will compress files into a streaming archive 
 using 3 built-in compression levels or using a 
